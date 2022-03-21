@@ -1,0 +1,5 @@
+[mysql]
+host = "127.0.0.1"
+database = "landing-page"
+user = "root"
+password = "12345678"
